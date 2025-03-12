@@ -1,0 +1,10 @@
+FOR WINDOWS 10 1703 or newer USERS: If you don't see a drive letter named 
+EASYROMS when you plug the SD card into a card reader, it's most likely that 
+Windows did not automatically assign a drive letter to that partition on your SD card. 
+This can be resolved by going to disk management (type disk management in the search 
+bar in Windows 10 and select the first control panel app that comes up at the top as the best match), 
+then going to the SD card with the EASYROMS partition label, then assign a drive letter 
+to the EASYROMS partition by right clicking on the EASYROMS partition and selecting Assign 
+Drive Letter or Change Driver letter and Path, then follow the directions from there. 
+Once completed, the drive should show up under My Computer. 
+You typically only need to ever do this once on the Windows machine.
