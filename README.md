@@ -1,0 +1,1 @@
+This file dump was created from an R36H that was ordered at the end of Nov. 2025. These devices go through silent hardware revisions so if this does not work for you, you may need to find a newer dump.
