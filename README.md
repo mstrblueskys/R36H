@@ -5,6 +5,8 @@ This file dump was created from an R36H that was ordered at the end of Nov. 2025
 
 I also did not find the Rocknix install process smooth, so here are some tips. 
 
+*Note: Rocknix does not officially support the R36H so proceed at your own risk*
+
 First, using rufus, follow these instructions as if you had an R36S for steps 1 and 2: https://rocknix.org/play/install/
 
 Before removing your flash drive, take the [overlays.zip](https://github.com/mstrblueskys/R36H/blob/main/overlays.zip) from this repo, extract, and take the overlays folder and copy it to your rocknix card
